@@ -1,3 +1,6 @@
+# Checkout my project
+[https://ogooluwanick-random-quote-machine.netlify.app](https://ogooluwanick-drum-machine.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
